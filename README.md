@@ -1,4 +1,6 @@
-GameOfLife
+Game Of Life
+
+the program was initialily created in Java, then in C
 there are 2 methods and 1 main method
 
 checkNeighbors take row, col and 2d array boolean as arguments
@@ -14,5 +16,7 @@ main method calculate the total alive neighbors of each cells
 store the array to a new array
 usleep was use to display the map automatically
 
+
+(wrap around) cells will continue in display even they reach the end of the map
 
 (in C) the 2d array has to be asigned false before display
