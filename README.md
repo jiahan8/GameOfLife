@@ -15,4 +15,4 @@ store the array to a new array
 usleep was use to display the map automatically
 
 
-the 2d array has to be asigned false before is the display
+(in C) the 2d array has to be asigned false before is the display
