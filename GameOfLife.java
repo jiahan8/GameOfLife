@@ -75,7 +75,6 @@ public class GameOfLife {
 								}
 								else{
 //									
-//									}
 								}
 
 						}
@@ -102,8 +101,7 @@ public class GameOfLife {
 //		checkNeighbors(cell);
 		boolean [][] cells = new boolean [24][80];
 //		boolean cell = false;
-//		int row=0;
-//		int col=0;
+
 		for(int row =  0; row < cell.length   ; row++){
 			for(int col = 0; col < cell[row].length   ; col++ ){
 				if(cell[row][col] == true)
